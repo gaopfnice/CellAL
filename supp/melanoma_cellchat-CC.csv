@@ -1,0 +1,50 @@
+sender,receptor,score
+Malignant,Malignant,0.346510914
+Malignant,T cells,0.160416339
+Malignant,B cells,0.16004073
+Malignant,Macrophages,0.678427714
+Malignant,Endothelial cells,0.40321574200000004
+Malignant,CAFs,0.37773897700000003
+Malignant,NK cells,0.137322263
+T cells,Malignant,0.11015650199999999
+T cells,T cells,0.147935488
+T cells,B cells,0.134736513
+T cells,Macrophages,0.42325425200000005
+T cells,Endothelial cells,0.429381777
+T cells,CAFs,0.201371747
+T cells,NK cells,0.08184092700000001
+B cells,Malignant,0.10624841199999999
+B cells,T cells,0.269984317
+B cells,B cells,0.16523109800000002
+B cells,Macrophages,0.36263727100000004
+B cells,Endothelial cells,0.3064485
+B cells,CAFs,0.032017316000000004
+B cells,NK cells,0.225614166
+Macrophages,Malignant,0.328258832
+Macrophages,T cells,0.8913888940000001
+Macrophages,B cells,0.669293036
+Macrophages,Macrophages,1.963221321
+Macrophages,Endothelial cells,0.46379826
+Macrophages,CAFs,0.20783031600000001
+Macrophages,NK cells,0.9993697559999999
+Endothelial cells,Malignant,0.40178598200000004
+Endothelial cells,T cells,0.800424712
+Endothelial cells,B cells,0.668336084
+Endothelial cells,Macrophages,1.040690725
+Endothelial cells,Endothelial cells,0.43731862200000005
+Endothelial cells,CAFs,0.604990361
+Endothelial cells,NK cells,0.686664408
+CAFs,Malignant,0.456373576
+CAFs,T cells,0.81973452
+CAFs,B cells,0.7948844959999999
+CAFs,Macrophages,1.96004438
+CAFs,Endothelial cells,0.585608158
+CAFs,CAFs,0.49736353899999997
+CAFs,NK cells,1.1051302490000001
+NK cells,Malignant,0.19627922399999997
+NK cells,T cells,0.342585239
+NK cells,B cells,0.20180262300000001
+NK cells,Macrophages,0.80582258
+NK cells,Endothelial cells,0.5144451560000001
+NK cells,CAFs,0.47752909600000004
+NK cells,NK cells,0.288749267

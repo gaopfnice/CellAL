@@ -1,0 +1,50 @@
+sender,receptor,score
+Malignant,Malignant,149
+Malignant,T cells,105
+Malignant,B cells,108
+Malignant,Macrophages,152
+Malignant,Endothelial cells,148
+Malignant,CAFs,205
+Malignant,NK cells,118
+T cells,Malignant,113
+T cells,T cells,98
+T cells,B cells,86
+T cells,Macrophages,125
+T cells,Endothelial cells,106
+T cells,CAFs,148
+T cells,NK cells,109
+B cells,Malignant,104
+B cells,T cells,91
+B cells,B cells,81
+B cells,Macrophages,114
+B cells,Endothelial cells,107
+B cells,CAFs,142
+B cells,NK cells,103
+Macrophages,Malignant,150
+Macrophages,T cells,140
+Macrophages,B cells,128
+Macrophages,Macrophages,174
+Macrophages,Endothelial cells,161
+Macrophages,CAFs,215
+Macrophages,NK cells,153
+Endothelial cells,Malignant,152
+Endothelial cells,T cells,124
+Endothelial cells,B cells,112
+Endothelial cells,Macrophages,161
+Endothelial cells,Endothelial cells,163
+Endothelial cells,CAFs,221
+Endothelial cells,NK cells,135
+CAFs,Malignant,193
+CAFs,T cells,151
+CAFs,B cells,143
+CAFs,Macrophages,183
+CAFs,Endothelial cells,197
+CAFs,CAFs,255
+CAFs,NK cells,171
+NK cells,Malignant,117
+NK cells,T cells,102
+NK cells,B cells,93
+NK cells,Macrophages,131
+NK cells,Endothelial cells,121
+NK cells,CAFs,168
+NK cells,NK cells,116
