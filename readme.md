@@ -2,7 +2,7 @@
 
 CellAL mainly consists of two procedures: LRI prediction by feature extraction via BioTriangle, feature selection through XGBoost, and classification using LSTM network with the attention mechanism, along with CCC inference based on LRI filtering, CCC inference and CCC network visualization.
 
-![Overview](gaopfnice/CellAL/Overview.png)
+![Overview](Overview.png)
 
 ## Data
 
